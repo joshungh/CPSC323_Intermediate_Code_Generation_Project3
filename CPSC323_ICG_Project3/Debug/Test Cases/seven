@@ -1,0 +1,18 @@
+program
+	int a,b;
+  begin
+  	a:=1;
+  	while (a<5)
+  	  begin
+  	  	b:=7;
+  	  	while(b>3)
+  	  	  begin
+  	  	    while(a+b <> 8)
+  	  	      begin
+  	  	        write(3);
+  	  	      end
+  	  	    write(2);
+  	  	  end
+  	  	write(1);
+  	  end
+  end.

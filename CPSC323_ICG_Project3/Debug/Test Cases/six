@@ -1,0 +1,10 @@
+program
+	int a;
+  begin
+  	a:=1;
+  	while (a<5)
+  	  begin
+  	  	a := a+1;
+  	  	write(a);
+  	  end
+  end.

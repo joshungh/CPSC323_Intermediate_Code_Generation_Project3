@@ -1,0 +1,6 @@
+program
+	int a, b;
+  begin
+  	read(a);
+  	read(a,b);
+  end.

@@ -1,0 +1,9 @@
+program
+	int a, b;
+  begin
+  	a:=5;
+  	b:=2;
+  	write(a);
+  	write(a,b);
+  	write(a+b*2);
+  end.

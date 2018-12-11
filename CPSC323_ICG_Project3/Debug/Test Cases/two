@@ -1,0 +1,7 @@
+program
+	int a, b;
+  begin
+  	b := 7;
+  	b := b * 3 + a;
+  	write(b);
+  end.

@@ -1,0 +1,13 @@
+program
+  	int a;
+  begin
+  	a:=2;
+  	if(a<5)
+  	  begin
+	  	write(1);
+	  end
+	else
+	  begin
+	  	write(2);
+	  end
+  end.
