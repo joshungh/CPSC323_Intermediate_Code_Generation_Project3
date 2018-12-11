@@ -8,3 +8,5 @@ Group Members:
   
   Derek Dorr      - derekdorr@csu.fullerton.edu
   
+    DOCUMENTS:
+      Cover Page: https://docs.google.com/document/d/1CaclZiYwN7HyimbRSjXOOMtVgotdm2QOR-FmQqsj9Go/edit?usp=sharing
