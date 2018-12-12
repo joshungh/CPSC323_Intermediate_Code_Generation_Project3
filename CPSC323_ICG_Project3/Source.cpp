@@ -16,19 +16,17 @@ Shohrat Geldiyev
 #include <iostream>
 #include <fstream>
 #include "parser.h"
+#include<string>
 
 using namespace std;
 
-int main(int argc, char* argv[]) {
+int main() {
+	ifstream fin;
+	string arg;
 
-	
-	if (argc < 2) {
-
-		cout << "Missing file name..." << endl;
-		return 1;
-	}
-
-	ifstream fin(argv[1]);
+	cout << "Enter File Name: ";
+	cin >> arg;
+	fin.open(arg);
 
 	if (!fin) {
 		cout << "file not found..." << endl;
