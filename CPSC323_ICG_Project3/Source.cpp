@@ -37,6 +37,8 @@ int main() {
 	Parser(fin); //parser function which takes in the file
 				 //closes file after program completes
 	fin.close();
+	char wait;
+	cin >> wait;
 	system("pause");
 	return 0;
 }
